@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Jonathan Pena-Loa just made a commit 
         </a>
       </header>
     </div>
